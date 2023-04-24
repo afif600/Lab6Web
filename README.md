@@ -416,9 +416,9 @@ header('location: ../home');
 ## Output
 - Maka, hasilnya akan seperti gambar berikut.
 
-![Home](img/home.PNG)
-
 ![Update](img/updatedata.PNG)
+
+![Home](img/home.PNG)
 
 ![About](img/about.PNG)
 
